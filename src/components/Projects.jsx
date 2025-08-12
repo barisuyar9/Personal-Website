@@ -46,7 +46,7 @@ const Projects = () => {
       image: "/images/kişisel-web-sitesi.png",
       technologies: ["React", "Context API", "react router dom"],
       githubUrl: "https://github.com/barisuyar9/Personal-Website-2",
-      liveUrl: "https://personal-website-zeta-virid-48.vercel.app/"
+      liveUrl: "https://personal-website-2-lemon.vercel.app/"
     }
   ];
 
