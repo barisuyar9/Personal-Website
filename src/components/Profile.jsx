@@ -7,7 +7,6 @@ const Profile = () => {
     { label: isEnglish ? "Name" : "Ad", value: "Barış Uyar" },
     { label: isEnglish ? "Location" : "Konum", value: "İstanbul, Turkey" },
     { label: isEnglish ? "Email" : "E-posta", value: "barisuyarh@gmail.com" },
-    { label: isEnglish ? "Phone" : "Telefon", value: "+90 536 858 2008" },
     { label: isEnglish ? "Experience" : "Deneyim", value: "1+ Years" },
     { label: isEnglish ? "Languages" : "Diller", value: "Turkish, English" },
   ];

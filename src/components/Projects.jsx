@@ -44,7 +44,7 @@ const Projects = () => {
         ? "This is a portfolio website designed with modern web technologies, showcasing projects and skills. With the dark/light theme option and Turkish–English language support, it offers users a flexible and accessible experience."
         : "Modern web teknolojileriyle tasarlanmış, projelerin ve yeteneklerin sergilendiği portfolyo web sitesidir. Dark/Light tema seçeneği ve Türkçe–İngilizce dil desteği ile kullanıcıya esnek ve erişilebilir bir deneyim sunar.",
       image: "/images/kişisel-web-sitesi.png",
-      technologies: ["React", "Context API", "react router dom"],
+      technologies: ["react", "context API", "react router dom"],
       githubUrl: "https://github.com/barisuyar9/Personal-Website-2",
       liveUrl: "https://personal-website-2-lemon.vercel.app/"
     }
